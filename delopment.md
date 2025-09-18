@@ -1,97 +1,251 @@
-Zanroo Eeco systemn of Zanroo Products
-Social Listening – for in-depth social media analysis
-Quick Analysis – for swift market data research
-Influally – for studying social media influencers, discovery, and analysis
-Ads Scanner – for monitoring harmful content in ads
-Data Automation – for complex social listening tasks
-Zanroo Desk – a platform for managing customer inquiries across channels. it social engagment design for customer serivce team and comphenseive anaylsis and for customer search
-Zanroo Chatbot – chatbot automating customer queries 24/7
-Zanroo GenAI Chat – AI-powered chat for personalized, smart conversations
-Trend X - online trend tracking
-Own media management - for managing your own media channels, publishing and scheduling posts ana analyzing the performance
-Insight Dashboard - for visualizing and analyzing social media data, from Desk, Listeting and OMM for combite analysis
-Onelink.cx - create short links and track their performance
-Zati AI - this is zanroo ai system is the backend of all product 
+# Zanroo Ecosystem: Comprehensive Social Intelligence & Customer Engagement Platform
 
+## Overview
 
-we have ISO 27701 and 27001 
-this these feature is support  for high security level for user
-- VPN
-- Whitelist IP
-- Strong password 
-- SSO
-- Retry and lock account
-- Web app firewall 
-- PII encryption
-- Role based access control
-- Encrypt  in transit 
-- Encrypt at rest
-- Session Timeout/ Auto Logout
-- TLS/ SSL
-- Pentest
+Zanroo is a comprehensive ecosystem of interconnected products designed to provide businesses with complete social intelligence, customer engagement, and data automation solutions. Our platform combines advanced AI technology with deep local market expertise, particularly in Southeast Asian markets.
 
-Social Listening
-- OCR (Image > Text), Brand detect (Image > logo text), AI Location ( Image > Location)
-- Subtitle from video
-- AI cleansing (Keyword, Tag, Sentiment)
-- Multi keyword layer. this make conplex analysis in deep layer design like  industry>brand>product>feature>service 
--Keyword pool design system. like user just select keyword from the keyword pool to create tempalte and anaylsis 
-- Keyword setup. Keyword pool, template  based management
-- AI summary
-- AI spike alert 
-- Collect all the comments of the posts that use for sentiment anaylsis collectly
-- Audience (age, gender)
-- Local data source. we sepcialist in SEA data source 
-- Suport Integration to 3th pary service
-- Sentiment research certified https://ieeexplore.ieee.org/document/9158329 
-- Zanroo Notification (Email, Line, Zanroo app) (Daily, Weeky)
-- Estimated reach data
-- we can track Facebook Group, shopee review
-- (service) Custom build Dashboard
+## Core AI Platform
 
-Zanroo Desk (Social engagnebt): Customer EngagementOmnichannel customer service and Chatbot
--Channel facebook, instagram, youtube, x(twitter), and special channel ***Webchat, Chat on Mobile, Email, Google Business, App store review
--Create ticket based on keyoword macth data from public by social lisetning 
--Agent Workflow: this is manin feature Auto Ticket / Task Assign to agent by language, skill and others.
--Customized Agent Status and Working Hour
--Skill Based assignment
-- auto asseing based on the agent that reply the ticket
--Chatbot Integration with working hour control(if our of working hour system will automate swtich to 100% chatbot workflow)
--****Multiple SLA Set, Level, Alert, and Holiday
--Category Tag 10 Levels
--AI Spell check
--Customer Information & Satisfaction
--Customer Information, Comment, Tag & Segmentation, and Related ticket
--Survey
--Chatbot Survey
--**Quality Check
--Reply Helper
--****Canned Response + variable + custom payload
-- can display Line Sticker in the message box noneed to open that line apps
+### Zati AI - The Intelligence Engine
+**Zati AI** serves as the backend AI system powering all Zanroo products, providing:
+- Advanced natural language processing capabilities
+- Machine learning models trained on local market data
+- Real-time data processing and analysis
+- Cross-product intelligence sharing and optimization
 
--Ticket management 
--Template and Grouping
--Ticket viewer
--Ticket status (Pending, Solved)
--Ticket escalation
--Ticket viewer
--Ticket notification ***
--Auto Reply
--Automation
+---
 
--Integration
--Mobile App ***
--Data Encryption: for PII
+## Product Suite
 
+### 📊 Social Intelligence & Analytics
 
+#### **Social Listening**
+*Comprehensive social media monitoring and analysis platform*
 
+**Core Capabilities:**
+- **Advanced Content Processing:**
+  - OCR (Image to Text conversion)
+  - Brand detection (Logo and text recognition in images)  
+  - AI Location detection (Extract location data from images)
+  - Subtitle extraction from videos
+  - AI content cleansing (Keywords, Tags, Sentiment analysis)
 
+- **Multi-Layer Analysis System:**
+  - Complex keyword layering: Industry > Brand > Product > Feature > Service
+  - Keyword pool design system for template-based analysis
+  - Template-based keyword management for consistent monitoring
 
+- **AI-Powered Insights:**
+  - AI summary generation
+  - AI spike alert system for trend detection
+  - Complete comment collection for comprehensive sentiment analysis
+  - Audience demographics (Age, Gender analysis)
 
+- **Specialized Data Sources:**
+  - Local SEA (Southeast Asian) market expertise
+  - Facebook Group monitoring
+  - Shopee review tracking
+  - Third-party service integrations
 
+- **Certified Analysis:**
+  - IEEE-certified sentiment research methodology
+  - Estimated reach data calculations
 
+- **Custom Solutions:**
+  - Custom dashboard development service
+  - Tailored monitoring solutions
 
+#### **Quick Analysis**
+*Swift market data research and instant insights*
 
+Fast-track analysis tool for immediate market intelligence and competitive insights.
 
+#### **Trend X**
+*Real-time online trend tracking and analysis*
 
+Monitor emerging trends across digital platforms with real-time alerts and comprehensive trend analysis.
 
+#### **Insight Dashboard**
+*Unified data visualization and analytics platform*
+
+Combines data from Social Listening, Zanroo Desk, and Own Media Management for comprehensive cross-platform analysis and reporting.
+
+### 🤝 Customer Engagement & Support
+
+#### **Zanroo Desk**
+*Omnichannel customer service and social engagement platform*
+
+**Channel Support:**
+- **Social Media:** Facebook, Instagram, YouTube, X (Twitter)
+- **Direct Channels:** Webchat, Mobile Chat, Email, Google Business, App Store Reviews
+
+**Advanced Workflow Management:**
+- **Intelligent Ticket System:**
+  - Auto-ticket creation based on keyword matching from social listening data
+  - Automated agent assignment by language, skills, and expertise
+  - Reassignment based on previous agent interactions
+
+- **Agent Management:**
+  - Customizable agent status and working hours
+  - Skill-based task assignment
+  - Quality check and performance monitoring
+
+- **SLA & Performance:**
+  - Multiple SLA levels with custom alerts
+  - Holiday and working hour management
+  - Automated escalation procedures
+
+- **Customer Intelligence:**
+  - Comprehensive customer information management
+  - Customer segmentation and tagging (10-level category system)
+  - Related ticket tracking and history
+  - Customer satisfaction surveys and feedback collection
+
+**Advanced Features:**
+- **AI-Enhanced Communication:**
+  - AI spell check and grammar assistance
+  - Reply helper suggestions
+  - Canned responses with variables and custom payloads
+
+- **Chatbot Integration:**
+  - Seamless chatbot handover based on working hours
+  - Automated survey collection
+  - 24/7 availability with intelligent routing
+
+- **Communication Tools:**
+  - LINE Sticker display without app switching
+  - Template and message grouping
+  - Automated replies and workflows
+
+- **Security & Compliance:**
+  - PII data encryption
+  - Secure ticket management
+  - Mobile app integration
+
+#### **Zanroo Chatbot**
+*24/7 automated customer query handling*
+
+Intelligent chatbot system that seamlessly integrates with Zanroo Desk for continuous customer support coverage.
+
+#### **Zanroo GenAI Chat**
+*AI-powered conversational platform*
+
+Advanced AI chat system delivering personalized, context-aware conversations for enhanced customer engagement.
+
+### 📈 Content & Media Management
+
+#### **Influally**
+*Influencer discovery, analysis, and campaign management*
+
+Comprehensive platform for identifying, analyzing, and collaborating with social media influencers across Southeast Asian markets.
+
+#### **Own Media Management (OMM)**
+*Multi-channel content management and publishing platform*
+
+- Content creation and scheduling across multiple social platforms
+- Performance analytics and engagement tracking
+- Cross-platform campaign management
+- Content calendar and workflow optimization
+
+#### **Ads Scanner**
+*Automated advertising content monitoring*
+
+Advanced scanning system for detecting and flagging harmful, inappropriate, or policy-violating content in digital advertisements.
+
+### 🔗 Utilities & Tools
+
+#### **Data Automation**
+*Complex social listening task automation*
+
+Streamlined automation tools for handling large-scale social monitoring tasks and data processing workflows.
+
+#### **Onelink.cx**
+*Link management and analytics platform*
+
+Create, manage, and track shortened links with comprehensive click analytics and performance metrics.
+
+---
+
+## Enterprise Security & Compliance
+
+**Certifications:**
+- ISO 27701 (Privacy Information Management)
+- ISO 27001 (Information Security Management)
+
+**Security Features:**
+- **Access Control:**
+  - VPN connectivity
+  - IP whitelisting
+  - Strong password policies
+  - Single Sign-On (SSO) integration
+  - Role-based access control (RBAC)
+
+- **Account Protection:**
+  - Account lockout after failed attempts
+  - Session timeout and auto-logout
+  - Multi-factor authentication support
+
+- **Data Protection:**
+  - PII encryption at all levels
+  - Encryption in transit (TLS/SSL)
+  - Encryption at rest
+  - Web application firewall protection
+
+- **Monitoring & Testing:**
+  - Regular penetration testing
+  - Continuous security monitoring
+  - Compliance auditing and reporting
+
+---
+
+## Integration & Notifications
+
+**Notification Systems:**
+- Email notifications with customizable schedules
+- LINE integration for instant alerts
+- Zanroo mobile app notifications
+- Daily and weekly reporting automation
+
+**Integration Capabilities:**
+- Third-party service connectivity
+- API access for custom integrations
+- Cross-platform data synchronization
+- Real-time data sharing between products
+
+---
+
+## Zanroo Ecosystem Architecture
+
+The Zanroo ecosystem is designed as an interconnected platform where each product enhances the others:
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                           ZATI AI                               │
+│                    (Core Intelligence Engine)                   │
+└─────────────────────┬───────────────────────────────────────────┘
+                      │
+    ┌─────────────────┼─────────────────┐
+    │                 │                 │
+┌───▼────┐    ┌──────▼──────┐    ┌─────▼─────┐
+│Social  │    │  Customer   │    │  Content  │
+│Intel   │◄──►│ Engagement  │◄──►│& Media    │
+│        │    │             │    │Management │
+└────────┘    └─────────────┘    └───────────┘
+    │              │                    │
+    ▼              ▼                    ▼
+┌────────────────────────────────────────────┐
+│         Insights & Analytics               │
+│    (Unified Dashboard & Reporting)         │
+└────────────────────────────────────────────┘
+```
+
+**Key Ecosystem Benefits:**
+1. **Unified Data Flow:** Social listening insights directly inform customer service strategies
+2. **Integrated Workflows:** Automated ticket creation from social monitoring
+3. **Comprehensive Analytics:** Cross-platform insights combining social, engagement, and content data
+4. **AI-Powered Intelligence:** Zati AI learns from all touchpoints to improve recommendations
+5. **Seamless Operations:** Single platform for monitoring, engaging, and managing all digital touchpoints
+
+---
+
+*This ecosystem approach ensures that businesses get complete visibility and control over their digital presence while maintaining the highest security and compliance standards.*
